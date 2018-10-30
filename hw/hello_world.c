@@ -9,6 +9,10 @@ int main() {
     switch (escolha) {
 
         case 1:
+            printf("Ola mundo!\n");
+            break;
+
+        case 2:
             printf("Hello World!\n");
             break;
 
