@@ -13,7 +13,11 @@ int main() {
             break;
 
         case 2:
-            printf("Hello World!\n");
+            printf("Hello world!\n");
+            break;
+
+        case 3:
+            printf("Hola mundo!\n");
             break;
 
         default:
