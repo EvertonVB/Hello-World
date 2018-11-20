@@ -20,6 +20,10 @@ int main() {
             printf("Hola mundo!\n");
             break;
 
+        case 4:
+            printf("Hallo welt!\n");
+            break;
+
         default:
             printf("Essa opcao nao existe.\n");
     }
